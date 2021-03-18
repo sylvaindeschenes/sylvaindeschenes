@@ -1,4 +1,4 @@
-To learn a bit more or to contact me please visit https://sylvaind.me
+To learn a bit more about or to contact me please visit https://sylvaind.me
 
 <!---
 sylvaindeschenes/sylvaindeschenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
